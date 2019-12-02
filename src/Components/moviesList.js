@@ -3,6 +3,7 @@ import Movie from "./movie";
 import * as d3 from 'd3';
 
 import {FormattedMessage} from 'react-intl';
+import MovieDetail from './movieDetail';
 
 export default class MoviesList extends React.Component {
     constructor(){
@@ -103,6 +104,9 @@ export default class MoviesList extends React.Component {
                       {this.state.movies.map( (e,i) => <Movie key={i} movie={e}/>)}
                   </tbody>
                 </table>
+              </div>
+              <div className="col-3">
+              { this.state.movies.map( (e,i) => <MovieDetail key={i} movie={e}/>)}
               </div>
          </div>
         </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import {FormattedDate, FormattedNumber, FormattedPlural, FormattedMessage} from 'react-intl';
-import MovieDetail from "./movieDetail";
+
 
 
 export default class Movie extends React.Component {
