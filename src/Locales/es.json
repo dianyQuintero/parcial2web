@@ -1,0 +1,15 @@
+{
+    "id": "id",
+    "name": "Nombre",
+    "directedBy": "Dirigida Por",
+    "country": "País",
+    "budget": "Presupuesto",
+    "views": "Vistas",
+    "releaseDate": "Fecha Publicación",
+    "description": "Descripción",
+    "cast": "Reparto",
+    "poster": "Poster",
+    "Million": "Millón",
+    "Millions": "Millones",
+    "but":"Ver detalle"
+}

@@ -1,0 +1,15 @@
+{
+        "id": "id",
+        "name": "name",
+        "directedBy": "directedBy",
+        "country": "country",
+        "budget": "budget",
+        "views": "views",
+        "releaseDate": "releaseDate",
+        "description": "description",
+        "cast": "cast",
+        "poster": "poster",
+        "Million": "Million",
+        "Millions": "Millions",
+        "but":"Show detail"
+}
